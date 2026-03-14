@@ -169,4 +169,4 @@ SELECT*
 FROM combined_data; 
 
 SELECT*
-FROM Combined_data_clean;
+FROM Combined_data_clean;     
