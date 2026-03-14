@@ -1,1 +1,1 @@
-
+To analyze solar plant energy generation and evaluate how environmental factors influence electricity production. The analysis aims to monitor operational performance, identify production trends, and assess inverter efficiency using historical solar plant and weather data.
